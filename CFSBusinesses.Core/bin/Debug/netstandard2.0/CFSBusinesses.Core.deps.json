@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "CFSBusinesses.Core/1.0.0": {
+        "dependencies": {
+          "Ardalis.Specification": "5.0.3",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "CFSBusinesses.Core.dll": {}
+        }
+      },
+      "Ardalis.GuardClauses/1.5.0": {
+        "dependencies": {
+          "JetBrains.Annotations": "2019.1.3",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Ardalis.GuardClauses.dll": {
+            "assemblyVersion": "1.5.0.0",
+            "fileVersion": "1.5.0.0"
+          }
+        }
+      },
+      "Ardalis.Specification/5.0.3": {
+        "dependencies": {
+          "Ardalis.GuardClauses": "1.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ardalis.Specification.dll": {
+            "assemblyVersion": "5.0.3.0",
+            "fileVersion": "5.0.3.0"
+          }
+        }
+      },
+      "JetBrains.Annotations/2019.1.3": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2019.1.3.0",
+            "fileVersion": "2019.1.3.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CFSBusinesses.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ardalis.GuardClauses/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XJExus33saWps2NDP0LyZj5t9Ro483sdM2WPpjbmXjWrmC5mif+8iqCBanKArLPrQoWfmAkqUbjXbMOiYUZudg==",
+      "path": "ardalis.guardclauses/1.5.0",
+      "hashPath": "ardalis.guardclauses.1.5.0.nupkg.sha512"
+    },
+    "Ardalis.Specification/5.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ddpyTWdA1pN+l7uRdCPgtILKd2Aw9rChpGWgjAmzg7EC1j84Q5OYp/4XMhywTmWDes32Iq9Z479UUL3xtV0urA==",
+      "path": "ardalis.specification/5.0.3",
+      "hashPath": "ardalis.specification.5.0.3.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2019.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E0x48BwZJKoNMNCekWGKsV4saQS89lf58ydT2szseV44CMYIbaHXjc7+305WLw6up3ibZN9yH6QdGSZo5tQhLg==",
+      "path": "jetbrains.annotations/2019.1.3",
+      "hashPath": "jetbrains.annotations.2019.1.3.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    }
+  }
+}

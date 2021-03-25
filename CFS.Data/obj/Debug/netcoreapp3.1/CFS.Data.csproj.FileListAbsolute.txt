@@ -1,0 +1,12 @@
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\bin\Debug\netcoreapp3.1\CFSBusinesses.Core.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\obj\Debug\netcoreapp3.1\CFS.Data.csprojAssemblyReference.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\obj\Debug\netcoreapp3.1\CFS.Data.AssemblyInfoInputs.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\obj\Debug\netcoreapp3.1\CFS.Data.AssemblyInfo.cs
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\obj\Debug\netcoreapp3.1\CFS.Data.csproj.CoreCompileInputs.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\bin\Debug\netcoreapp3.1\CFS.Data.deps.json
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\bin\Debug\netcoreapp3.1\CFS.Data.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\bin\Debug\netcoreapp3.1\CFS.Data.pdb
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\bin\Debug\netcoreapp3.1\CFSBusinesses.Core.pdb
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\obj\Debug\netcoreapp3.1\CFS.Data.csproj.CopyComplete
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\obj\Debug\netcoreapp3.1\CFS.Data.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Data\obj\Debug\netcoreapp3.1\CFS.Data.pdb

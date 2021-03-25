@@ -1,0 +1,9 @@
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Authorization\bin\Debug\netstandard2.0\CFS.Authorization.deps.json
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Authorization\bin\Debug\netstandard2.0\CFS.Authorization.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Authorization\bin\Debug\netstandard2.0\CFS.Authorization.pdb
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Authorization\obj\Debug\netstandard2.0\CFS.Authorization.csprojAssemblyReference.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Authorization\obj\Debug\netstandard2.0\CFS.Authorization.AssemblyInfoInputs.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Authorization\obj\Debug\netstandard2.0\CFS.Authorization.AssemblyInfo.cs
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Authorization\obj\Debug\netstandard2.0\CFS.Authorization.csproj.CoreCompileInputs.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Authorization\obj\Debug\netstandard2.0\CFS.Authorization.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Authorization\obj\Debug\netstandard2.0\CFS.Authorization.pdb

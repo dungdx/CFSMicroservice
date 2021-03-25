@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ardalis.ApiEndpoints" Version="3.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CFS.Authorization\CFS.Authorization.csproj" />
+    <ProjectReference Include="..\CFS.Infrastructure.Core\CFS.Infrastructure.Core.csproj" />
+    <ProjectReference Include="..\CFS.Strategy.Redis\CFS.Strategy.Redis.csproj" />
+    <ProjectReference Include="..\CFSBusinesses.Core\CFSBusinesses.Core.csproj" />
+    <ProjectReference Include="..\KSEMS.Permission\CFS.Permission.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AuthEndpoints\" />
+    <Folder Include="AgencyEndpoints\" />
+  </ItemGroup>
+
+
+</Project>

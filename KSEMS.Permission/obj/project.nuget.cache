@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cve1mYm2MMLk3WdDcDm3HzBpIlpswPXsI2viWQH9wSoDTMhOzW9UD+WHFUoJBx7JvJXfFkSP8JhYMoxmtAPENg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linhsan\\source\\repos\\CFSMicroservice\\KSEMS.Permission\\CFS.Permission.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linhsan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\linhsan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

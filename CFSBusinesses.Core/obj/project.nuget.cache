@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rEZ2u+cVUkIAzCWdlsU7NRy48LUSY7P2piel/qojsH51k4Od0mWG7x88Y5LGnm4Y7aQGRvt6o3yJDqzEcnqfwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linhsan\\source\\repos\\CFSMicroservice\\CFSBusinesses.Core\\CFSBusinesses.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linhsan\\.nuget\\packages\\ardalis.guardclauses\\1.5.0\\ardalis.guardclauses.1.5.0.nupkg.sha512",
+    "C:\\Users\\linhsan\\.nuget\\packages\\ardalis.specification\\5.0.3\\ardalis.specification.5.0.3.nupkg.sha512",
+    "C:\\Users\\linhsan\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
+    "C:\\Users\\linhsan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\linhsan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

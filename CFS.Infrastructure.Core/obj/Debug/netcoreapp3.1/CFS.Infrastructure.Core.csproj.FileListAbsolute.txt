@@ -1,0 +1,9 @@
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Infrastructure.Core\bin\Debug\netcoreapp3.1\CFS.Infrastructure.Core.deps.json
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Infrastructure.Core\bin\Debug\netcoreapp3.1\CFS.Infrastructure.Core.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Infrastructure.Core\bin\Debug\netcoreapp3.1\CFS.Infrastructure.Core.pdb
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Infrastructure.Core\obj\Debug\netcoreapp3.1\CFS.Infrastructure.Core.csprojAssemblyReference.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Infrastructure.Core\obj\Debug\netcoreapp3.1\CFS.Infrastructure.Core.AssemblyInfoInputs.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Infrastructure.Core\obj\Debug\netcoreapp3.1\CFS.Infrastructure.Core.AssemblyInfo.cs
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Infrastructure.Core\obj\Debug\netcoreapp3.1\CFS.Infrastructure.Core.csproj.CoreCompileInputs.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Infrastructure.Core\obj\Debug\netcoreapp3.1\CFS.Infrastructure.Core.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\CFS.Infrastructure.Core\obj\Debug\netcoreapp3.1\CFS.Infrastructure.Core.pdb

@@ -1,0 +1,9 @@
+C:\Users\linhsan\source\repos\CFSMicroservice\CFSBusinesses.Core\bin\Debug\netstandard2.0\CFSBusinesses.Core.deps.json
+C:\Users\linhsan\source\repos\CFSMicroservice\CFSBusinesses.Core\bin\Debug\netstandard2.0\CFSBusinesses.Core.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\CFSBusinesses.Core\obj\Debug\netstandard2.0\CFSBusinesses.Core.csprojAssemblyReference.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFSBusinesses.Core\obj\Debug\netstandard2.0\CFSBusinesses.Core.AssemblyInfoInputs.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFSBusinesses.Core\obj\Debug\netstandard2.0\CFSBusinesses.Core.AssemblyInfo.cs
+C:\Users\linhsan\source\repos\CFSMicroservice\CFSBusinesses.Core\obj\Debug\netstandard2.0\CFSBusinesses.Core.csproj.CoreCompileInputs.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\CFSBusinesses.Core\bin\Debug\netstandard2.0\CFSBusinesses.Core.pdb
+C:\Users\linhsan\source\repos\CFSMicroservice\CFSBusinesses.Core\obj\Debug\netstandard2.0\CFSBusinesses.Core.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\CFSBusinesses.Core\obj\Debug\netstandard2.0\CFSBusinesses.Core.pdb

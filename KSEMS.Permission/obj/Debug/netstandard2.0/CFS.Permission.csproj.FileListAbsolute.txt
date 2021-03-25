@@ -1,0 +1,9 @@
+C:\Users\linhsan\source\repos\CFSMicroservice\KSEMS.Permission\bin\Debug\netstandard2.0\CFS.Permission.deps.json
+C:\Users\linhsan\source\repos\CFSMicroservice\KSEMS.Permission\bin\Debug\netstandard2.0\CFS.Permission.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\KSEMS.Permission\bin\Debug\netstandard2.0\CFS.Permission.pdb
+C:\Users\linhsan\source\repos\CFSMicroservice\KSEMS.Permission\obj\Debug\netstandard2.0\CFS.Permission.csprojAssemblyReference.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\KSEMS.Permission\obj\Debug\netstandard2.0\CFS.Permission.AssemblyInfoInputs.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\KSEMS.Permission\obj\Debug\netstandard2.0\CFS.Permission.AssemblyInfo.cs
+C:\Users\linhsan\source\repos\CFSMicroservice\KSEMS.Permission\obj\Debug\netstandard2.0\CFS.Permission.csproj.CoreCompileInputs.cache
+C:\Users\linhsan\source\repos\CFSMicroservice\KSEMS.Permission\obj\Debug\netstandard2.0\CFS.Permission.dll
+C:\Users\linhsan\source\repos\CFSMicroservice\KSEMS.Permission\obj\Debug\netstandard2.0\CFS.Permission.pdb
